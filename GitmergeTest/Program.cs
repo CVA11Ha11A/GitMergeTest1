@@ -13,8 +13,6 @@ namespace GitmergeTest
             Ruler ruler = new Ruler(10);
             ruler.Run();
 
-
-
         }
     }
     public class Ruler
